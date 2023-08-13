@@ -16,7 +16,7 @@ Here are a few projects I've worked on:
 ......
 ## GitHub Stats
 
-![Sanidhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_rank=true)
+![Sanidhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanidhyarc200&show_icons=true&theme=radical&hide_rank=true)
 
 ## Let's Connect
 
