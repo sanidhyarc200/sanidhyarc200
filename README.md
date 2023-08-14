@@ -15,7 +15,7 @@ Here are a few projects I've worked on:
 
 ......
 ## Languages used
-[![languages used]https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyarc200&layout=compact
+[![languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyarc200&layout=compact)
 
 ## Streak ✨
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanidhyarc200&theme=dark)](https://git.io/streak-stats)
