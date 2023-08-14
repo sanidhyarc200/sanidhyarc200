@@ -14,6 +14,10 @@ I'm a passionate Frontend Developer. I love creating captivating and user-friend
 Here are a few projects I've worked on:
 
 ......
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanidhyarc200&theme=dark)](https://git.io/streak-stats)
+
+
 ## GitHub Stats
 
 ![Sanidhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanidhyarc200&show_icons=true&theme=radical&hide_rank=true)
