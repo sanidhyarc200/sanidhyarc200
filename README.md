@@ -10,7 +10,7 @@ I'm a passionate Frontend Developer. I love creating captivating and user-friend
 - ⚛️ React | 🔁 Redux | 💼 TypeScript
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 
 ## My Projects
 
