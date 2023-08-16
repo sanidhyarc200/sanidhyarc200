@@ -9,11 +9,8 @@ I'm a passionate Frontend Developer. I love creating captivating and user-friend
 - 💻 HTML | 🎨 CSS | 🚀 JavaScript
 - ⚛️ React | 🔁 Redux | 💼 TypeScript
 
-### Programming Languages
 
-- ![JavaScript](https://example.com/path/to/javascript.png) JavaScript
-- ![Python](https://example.com/path/to/python.png) Python
-- ![Java](https://example.com/path/to/java.png) Java
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ## My Projects
 
