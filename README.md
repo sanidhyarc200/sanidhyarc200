@@ -14,7 +14,7 @@ I'm a passionate Frontend Developer. I love creating captivating and user-friend
 
 ## My Projects
 
-Here are a few projects I've worked on:
+Here are a few projects I've worked on :
 
 ......
 ## Languages used
