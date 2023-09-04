@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Frontend Developer. I love creating captivating and user-friendly web interfaces that bring ideas to life. My tech stack includes HTML, CSS, JavaScript, React, Redux,   nextjs and TypeScript. ss
+I'm a passionate Frontend Developer. I love creating captivating and user-friendly web interfaces that bring ideas to life. My tech stack includes HTML, CSS, JavaScript, React, Redux,   nextjs and TypeScript. 
 
 ## Tech Stack
 
